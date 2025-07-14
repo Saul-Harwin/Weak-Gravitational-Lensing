@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../Projects/Portfolio-Website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website"
+	}
+}
